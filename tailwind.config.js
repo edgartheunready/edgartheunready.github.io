@@ -2,7 +2,7 @@ module.exports = {
   purge: [
     './*.html'
   ],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'media',
   theme: {
     extend: {},
   },
